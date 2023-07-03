@@ -11,6 +11,7 @@
     "react-scripts": "5.0.1",
     "style-dictionary": "^3.8.0",
     "styled-components": "^6.0.2",
+    "token-transformer": "0.0.33",
     "web-vitals": "^2.1.4"
   },
   "scripts": {
@@ -18,7 +19,8 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "build-dictionary": "style-dictionary build --config ./styled-dictionary/config.json"
+    "build-dictionary": "style-dictionary build --config ./styled-dictionary/config.json",
+    "transfer-token": "node token-transformer tokens.json output.json"
   },
   "eslintConfig": {
     "extends": [
