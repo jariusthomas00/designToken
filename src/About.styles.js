@@ -10,7 +10,7 @@ const Box = styled.div({
   margin: `10px auto 0`,
   padding: `10px`,
   backgroundColor: tokens.ColorsPrimary,
-  fontSize: eval(tokens.FontSizesH2),
+  fontSize: tokens.FontSizesH2,
   borderRadius: '10px'
 });
 
@@ -26,12 +26,12 @@ const Heading = styled.h1({
   fontSize: tokens.FontSizesH1
 })
 const Text = styled.div({
-  fontSize: eval(tokens.FontSizesH6),
+  fontSize: tokens.FontSizesH6,
   textAlign: 'left',
   color: tokens.ColorsSecondary,
 });
 const Description = styled.div({
-  fontSize: eval(tokens.FontSizesH5),
+  fontSize: tokens.FontSizesH5,
   textAlign: 'center',
   color: tokens.ColorsSecondary,
 });
