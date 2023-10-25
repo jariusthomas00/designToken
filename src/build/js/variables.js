@@ -1,11 +1,11 @@
 /**
  * Do not edit directly
- * Generated on Mon, 23 Oct 2023 12:59:56 GMT
+ * Generated on Wed, 25 Oct 2023 14:07:52 GMT
  */
 
 export const ColorsPrimary = "#000000";
 export const ColorsSecondary = "#ffffff";
-export const ColorsTertiary = "#FF0000";
+export const ColorsTertiary = "#00FF00";
 export const FontSizesH1 = 48.829;
 export const FontSizesH2 = 39.063;
 export const FontSizesH3 = 31.25;
