@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Thu, 09 May 2024 19:49:19 GMT
+ * Generated on Thu, 09 May 2024 19:52:09 GMT
  */
 
 export const ColorsPrimary = "#000000";
