@@ -1,4 +1,4 @@
-name: CI
+name: Create Token Flow
 on: 
   push:
     branches:
