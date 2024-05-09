@@ -1,18 +1,18 @@
 /**
  * Do not edit directly
- * Generated on Thu, 09 May 2024 19:52:09 GMT
+ * Generated on Thu, 09 May 2024 19:54:10 GMT
  */
 
-export const ColorsPrimary = "#000000";
-export const ColorsSecondary = "#ffffff";
-export const ColorsTertiary = "#0000FF";
-export const FontSizesH1 = 48.829;
-export const FontSizesH2 = 39.063;
-export const FontSizesH3 = 31.25;
-export const FontSizesH4 = 25;
-export const FontSizesH5 = 20;
-export const FontSizesH6 = 16;
-export const FontSizesBody = 16;
-export const FontSizesSm = 13.6;
-export const FontSizesXs = 10.4;
-export const TokenSetOrder0 = "core";
+export const 0 = "core";
+export const H1 = 48.829;
+export const H2 = 39.063;
+export const H3 = 31.25;
+export const H4 = 25;
+export const H5 = 20;
+export const H6 = 16;
+export const Body = 16;
+export const Sm = 13.6;
+export const Xs = 10.4;
+export const Primary = "#01AA66";
+export const Secondary = "#fffff3";
+export const Tertiary = "#e80707";
